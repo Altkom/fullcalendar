@@ -4,7 +4,8 @@ $.fullCalendar.locale("pl", {
 		month: "Miesiąc",
 		week: "Tydzień",
 		day: "Dzień",
-		list: "Plan dnia"
+		list: "Plan dnia",
+		year: "Rok"
 	},
 	allDayText: "Cały dzień",
 	eventLimitText: "więcej",
